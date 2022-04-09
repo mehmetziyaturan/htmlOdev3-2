@@ -7,7 +7,7 @@
 ## Installation
 Öncelikle projeyi clonelayın.
 ```bash
-git clone https://github.com/mehmetziyaturan/htmlOdev3.git
+git clone https://github.com/mehmetziyaturan/htmlOdev3-2.git
 ```
 
 ## Usage
