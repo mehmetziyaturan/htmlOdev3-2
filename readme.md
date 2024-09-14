@@ -1,6 +1,6 @@
-# kodluyoruz html Odev 3-2
+# Çikolata Küleri Tarifi
 
-[Patika.dev](https://www.patika.dev) Html eğitiminde 3/2.ödev. Alıştırmalar ve bölüm sonu çalışması.
+Alıştırmalar ve bölüm sonu çalışması.
 
 ![proje resmi1](img/png1.PNG)
 
